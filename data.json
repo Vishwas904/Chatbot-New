@@ -1,0 +1,220 @@
+{
+  "intents": [
+    {
+      "tags": "IT_Department",
+      "patterns": [
+        "What is the role of I.T Department in GMSCL?",
+        "Explain the responsibilities of the I.T Department in GMSCL.",
+        "How does the I.T Department contribute to GMSCL?"
+      ],
+      "response": "The I.T branch of GMSCL provides end-to-end services, including maintenance of the GMSCL website, online tendering through the n-Procure portal, implementation of e-Aushadhi, training of e-Aushadhi users, managing a complain & redressal forum, and strengthening GMSCL branches and regional warehouses across Gujarat."
+    },
+    {
+      "tags": "Tendering_Process",
+      "patterns": [
+        "How is the tendering process done in GMSCL?",
+        "Explain the current tendering process in GMSCL.",
+        "What portal does GMSCL use for the tendering process?"
+      ],
+      "response": "Currently, GMSCL uses the GeM / n-Procure portal for the tendering process, following the guidelines set by the government resolution."
+    },
+    {
+      "tags": "Drug_Procurement",
+      "patterns": [
+        "How is the drug procurement process conducted using I.T services?",
+        "Explain the drug procurement process in GMSCL.",
+        "What role does I.T play in drug procurement at GMSCL?"
+      ],
+      "response": "Drug procurement at GMSCL is done using the e-Aushadhi Software, ensuring a streamlined process from purchase to inventory management and distribution to various healthcare facilities across the state."
+    },
+    {
+      "tags": "Market_Survey",
+      "patterns": [
+        "How is market survey conducted at GMSCL?",
+        "Explain the process of market survey in GMSCL.",
+        "What factors are considered in GMSCL's market survey?"
+      ],
+      "response": "Market surveys at GMSCL are based on details of previous orders executed by vendors, previous purchases by GMSCL, and insights from other corporations."
+    },
+    {
+      "tags": "Pre-Bid_Meeting",
+      "patterns": [
+        "What is a pre-bid meeting?",
+        "Why is a pre-bid meeting important?",
+        "Explain the significance of pre-bid meetings at GMSCL."
+      ],
+      "response": "A pre-bid meeting at GMSCL is a platform for experts and prospective bidders to discuss purchase specifications, ensuring maximum bidder participation without compromising healthcare institution needs. It allows bidders to clarify requirements face-to-face."
+    },
+    {
+      "tags": "Product_Incorporation",
+      "patterns": [
+        "How can a new product be incorporated into the health system in Govt. of Gujarat?",
+        "Can patented or proprietary products be introduced in the healthcare sector in Government of Gujarat?",
+        "Explain the process of introducing new products in the healthcare sector in Government of Gujarat."
+      ],
+      "response": "As part of the New Technology Initiative, manufacturers/suppliers can write to GMSCL with new innovations, along with technical literature and supporting documents. For patented or proprietary products, approval from the government is required beforehand."
+    },
+    {
+      "tags": "DVDMS_Usage",
+      "patterns": [
+        "How many stakeholders are using DVDMS (e-Aushadhi)?",
+        "Can you provide information on the users of DVDMS (e-Aushadhi)?",
+        "What is the extent of DVDMS (e-Aushadhi) usage?"
+      ],
+      "response": "GMSCL has approximately 1100+ stakeholders, including Suppliers, Registered Labs, Regional Warehouses, ADHO, CDHO, DMER, GMERS, District Hospitals, Sub District Hospitals, CHC, UPHC, Police Dispensary/Jail, Leprosy Unit, T.B Control Unit, etc., using DVDMS (e-Aushadhi)."
+    },
+    {
+      "tags": "Quality_Control",
+      "patterns": [
+        "What is the role of Quality Control (QC) Branch in e-Aushadhi?",
+        "Explain the responsibilities of the Quality Control (QC) Branch in e-Aushadhi.",
+        "How does the Quality Control (QC) Branch contribute to e-Aushadhi?"
+      ],
+      "response": "The QC branch plays a crucial role in e-Aushadhi, involving two methods of quality check. One is Pre Dispatch Testing (PDT) where samples are sent to the concerned Regional Warehouse (RWH), then to PDT Labs, and results are entered. The other involves government and NABL empaneled labs receiving samples and entering the results."
+    },
+    {
+      "tags": "GDawa_Application",
+      "patterns": [
+        "What is G-dawa? How can I use it? What are its advantages?",
+        "Can you explain G-dawa and its advantages? How can one use it?",
+        "Provide information on G-dawa, its usage, and advantages."
+      ],
+      "response": "‘G-dawa’ is a mobile application designed to provide information on economic alternatives of drugs to the public, contributing to the Digital India Campaign. Users can download ‘E-dawa’ from the Google Play Store, register for further use, and benefit from accessing information on affordable drug alternatives, reducing medical expenditures."
+    },
+    {
+      "tags": "EMMS_Process",
+      "patterns": [
+        "How is equipment procurement/maintenance conducted?",
+        "Explain the process of equipment procurement and maintenance through EMMS.",
+        "What is the procedure for equipment procurement and maintenance using EMMS?"
+      ],
+      "response": "EMMS (C-DAC’s Equipment Maintenance & Management System) is a web-based system dealing with biomedical equipment. Departments raise requests for maintenance through AMC or repair, which move through administrative approvals before being processed by competent authorities."
+    },
+    {
+      "tags": "HFMS_Management",
+      "patterns": [
+        "How are human resources and finance managed using I.T Services?",
+        "Explain the management of human resources and finance through HFMS.",
+        "What role does I.T play in managing human resources and finance at GMSCL?"
+      ],
+      "response": "HFMS (Human and Finance Management System) is used to manage all HR and financial services at GMSCL, providing an integrated solution for effective management of human resources and financial processes."
+    },
+    {
+      "tags": "Logistic_Management",
+      "patterns": [
+        "How is drug Supply & Logistic management system managed?",
+        "Explain the management of drug Supply & Logistic through e-Aushadhi.",
+        "What role does e-Aushadhi play in drug Supply & Logistic management?"
+      ],
+      "response": "E-Aushadhi, a web-based supply chain management application, deals with the purchase, inventory management, and distribution of various drugs, sutures, and surgical items. It caters to various healthcare facilities, ensuring the smooth flow of drugs to patients."
+    },
+    {
+      "tags": "GHF_Role",
+      "patterns": [
+        "What is the role of Government Health facilities in e-Aushadhi?",
+        "Explain the roles of Government Health facilities in e-Aushadhi.",
+        "How do Government Health facilities contribute to e-Aushadhi?"
+      ],
+      "response": "Government Health Facilities play crucial roles, including annual demand generation, need-based indent generation, drug distribution, monitoring drug issues and receipts, and overseeing the stock and Rate Contract of Essential Drug List (EDL) in e-Aushadhi."
+    },
+    {
+      "tags": "Drug_Procurement_Branch",
+      "patterns": [
+        "What is the role of Drug procurement branch in e-Aushadhi?",
+        "Explain the responsibilities of the Drug procurement branch in e-Aushadhi.",
+        "How does the Drug procurement branch contribute to e-Aushadhi?"
+      ],
+      "response": "The Drug Procurement Branch is responsible for rate contract generation, supplier categorization, and purchase order generation based on schedule and Regional Warehouse (RWH) requirements in e-Aushadhi."
+    },
+    {
+      "tags": "Supplier_Role",
+      "patterns": [
+        "What is the role of the supplier (vendor) in e-Aushadhi?",
+        "Explain the responsibilities of the supplier (vendor) in e-Aushadhi.",
+        "How does the supplier (vendor) contribute to e-Aushadhi?"
+      ],
+      "response": "The role of the supplier includes accepting/rejecting purchase orders (POs), delivering against POs, monitoring payment, delivery pending, and cancellation statuses. Suppliers use the e-Aushadhi interface from the Order Management menu."
+    },
+    {
+      "tags": "GMSCL_Contact",
+      "patterns": [
+        "How can I contact the IT branch for resolution of my problems?",
+        "What are the contact details for IT branch support?",
+        "Who should I contact for IT-related issues at GMSCL?"
+      ],
+      "response": "You may contact the IT branch at 079-23258925 or drop an email at [email protected] between 10:30 am to 6:10 pm, except public holidays. In case of emergency, you can contact the IT branch at any time. Contact details of officers working in the IT branch are as follows: Himanshu Bhatt, Manager(MIS), Tel. No – 079 232 58925."
+    },
+    {
+      "tags": "Monitoring_Drug_Issuing",
+      "patterns": [
+        "How can e-Aushadhi help in monitoring the issuing of drugs to patients?",
+        "Explain the role of e-Aushadhi in monitoring drug issuing.",
+        "What features of e-Aushadhi contribute to monitoring drug issuing?"
+      ],
+      "response": "The issuing of drugs to patients through e-Aushadhi software will occur once the integration of e-Aushadhi with GHIMS software is completed."
+    },
+    {
+      "tags": "Real_Time_Stock_Position",
+      "patterns": [
+        "How can a citizen get real-time stock position information of Government health facilities?",
+        "Explain the process of obtaining real-time stock position information from Government health facilities.",
+        "What is the procedure for citizens to access real-time stock position information of Government health facilities?"
+      ],
+      "response": "GMSCL is in the process of putting a link on public domains in e-Aushadhi to provide real-time stock position information for entire health institutes and Regional Warehouses (RWH)."
+    },
+    {
+      "tags": "DVDMS_Supplier_Usage",
+      "patterns": [
+        "How can a supplier (vendor) use e-Aushadhi?",
+        "Explain the process for suppliers (vendors) to use e-Aushadhi.",
+        "What steps are involved for a supplier (vendor) to utilize e-Aushadhi?"
+      ],
+      "response": "Suppliers can use e-Aushadhi by obtaining a USER ID and Password from the GMSCL Head Quarter. Once they have the credentials, suppliers can access the supplier interface from the Order Management menu in e-Aushadhi."
+    },
+    {
+      "tags": "GHF_Indent_Generation",
+      "patterns": [
+        "How do Government Health Facilities generate indent in e-Aushadhi?",
+        "Explain the process of indent generation by Government Health Facilities in e-Aushadhi.",
+        "What is the procedure for Government Health Facilities to generate indent in e-Aushadhi?"
+      ],
+      "response": "Government Health Facilities generate indent in e-Aushadhi through an annual demand generation process, creating indent requests to the respective Regional Warehouses (RWH) or Concerned Officers based on need."
+    },
+    {
+      "tags": "Supplier_Acknowledgment",
+      "patterns": [
+        "How does a supplier (vendor) acknowledge Purchase Orders (POs) in e-Aushadhi?",
+        "Explain the process of Purchase Order (PO) acknowledgment by suppliers in e-Aushadhi.",
+        "What steps are involved for a supplier (vendor) to acknowledge POs in e-Aushadhi?"
+      ],
+      "response": "Suppliers acknowledge Purchase Orders (POs) in e-Aushadhi by accepting or rejecting them. They can also monitor the status of delivery, pending deliveries, and cancellations."
+    },
+    {
+      "tags": "Quality_Control_PDT",
+      "patterns": [
+        "What is Pre Dispatch Testing (PDT) in e-Aushadhi?",
+        "Explain the process of Pre Dispatch Testing (PDT) in e-Aushadhi Quality Control.",
+        "How does e-Aushadhi implement Pre Dispatch Testing (PDT) for Quality Control?"
+      ],
+      "response": "Pre Dispatch Testing (PDT) in e-Aushadhi involves sending samples to the concerned Regional Warehouse (RWH), then to PDT Labs. The labs enter the results, and the Quality Control (QC) branch acknowledges the results at the headquarters."
+    },
+    {
+      "tags": "GDawa_Download",
+      "patterns": [
+        "How can I download the 'E-dawa' mobile application?",
+        "Explain the process of downloading the 'E-dawa' mobile application.",
+        "What are the steps to download the 'E-dawa' mobile application?"
+      ],
+      "response": "You can download the 'E-dawa' mobile application from the Google Play Store. Simply search for 'E-dawa,' download the app, and register yourself for further use."
+    },
+    {
+      "tags": "EMMS_Request_Process",
+      "patterns": [
+        "How is the request process for equipment maintenance conducted through EMMS?",
+        "Explain the process of raising equipment maintenance requests through EMMS.",
+        "What steps are involved in the request process for equipment maintenance using EMMS?"
+      ],
+      "response": "Departments initiate the request process for equipment maintenance through EMMS by raising requests to the Head of the Department (HOD). The request moves through administrative approvals before reaching the competent authority for final approval."
+    }
+  ]
+}
